@@ -20,7 +20,6 @@
 	</properties>
 
 	<dependencies>
-		
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
@@ -63,7 +62,6 @@
 			<artifactId>lombok</artifactId>
 			<optional>true</optional>
 		</dependency>
-				
 	</dependencies>
 	
 	<dependencyManagement>
